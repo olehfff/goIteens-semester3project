@@ -1,0 +1,8 @@
+import  './danya.js'
+import  './edward.js'
+import  './erik.js'
+import  './nastya.js'
+import  './nazar.js'
+import  './oleh.js'
+import  './vanya.js'
+import  './yura.js'
